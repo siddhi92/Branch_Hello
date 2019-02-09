@@ -1,2 +1,2 @@
-echo "Hello World- Defect"
-echo "I am from Defect"
+echo "Hello World- Refactor"
+echo "I am from Refactor"
